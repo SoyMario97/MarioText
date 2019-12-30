@@ -7,8 +7,8 @@
 > Other NPM: https://NPMJS.com/marioapi
 
 [![NPM](https://camo.githubusercontent.com/fd5718136c433ef04e3b2e9f7a66ae27dc023191/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d6a6176617363726970742e737667)](https://NPMJS.com/mariotext)
-[![NPM](https://nodei.co/npm/mariotext.png)](https://NPMJS.com/mariotext)[![NPM2](https://img.shields.io/npm/dt/mariotext.svg?style=for-the-badge)](https://NPMJS.com/mariotext)
-[![Version](https://img.shields.io/npm/v/mariotext.svg?style=for-the-badge&logo=NPM)](https://NPMJS.com/mariotext)[![Servidor de Soporte](https://DiscordApp.com/api/guilds/615179530247733268/widget.png)](https://Discord.GG/yEe8PpZ)
+[![NPM](https://nodei.co/npm/mariotext.png)](https://NPMJS.com/mariotext)[![NPM2](https://img.shields.io/npm/dt/mariotext?logo=NPM)](https://NPMJS.com/mariotext)
+[![Version](https://img.shields.io/npm/v/mariotext?logo=NPM)](https://NPMJS.com/mariotext)[![Servidor de Soporte](https://DiscordApp.com/api/guilds/615179530247733268/widget.png)](https://Discord.GG/yEe8PpZ)[![NPMXD](https://img.shields.io/npm/l/mariotext)](https://NPMJS.com/mariotext)
 
 ## Installation in Windows
 
@@ -70,8 +70,8 @@ console.log(mariotext.getMinus(text))
 > Otro NPM: https://NPMJS.com/marioapi
 
 [![NPM](https://camo.githubusercontent.com/fd5718136c433ef04e3b2e9f7a66ae27dc023191/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d6a6176617363726970742e737667)](https://NPMJS.com/mariotext)
-[![NPM](https://nodei.co/npm/mariotext.png)](https://NPMJS.com/mariotext)[![NPM2](https://img.shields.io/npm/dt/mariotext.svg?style=for-the-badge)](https://NPMJS.com/mariotext)
-[![Version](https://img.shields.io/npm/v/mariotext.svg?style=for-the-badge&logo=NPM)](https://NPMJS.com/mariotext)[![Servidor de Soporte](https://DiscordApp.com/api/guilds/615179530247733268/widget.png)](https://Discord.GG/yEe8PpZ)
+[![NPM](https://nodei.co/npm/mariotext.png)](https://NPMJS.com/mariotext)[![NPM2](https://img.shields.io/npm/dt/mariotext?logo=NPM)](https://NPMJS.com/mariotext)
+[![Version](https://img.shields.io/npm/v/mariotext?logo=NPM)](https://NPMJS.com/mariotext)[![Servidor de Soporte](https://DiscordApp.com/api/guilds/615179530247733268/widget.png)](https://Discord.GG/yEe8PpZ)[![NPMXD](https://img.shields.io/npm/l/mariotext)](https://NPMJS.com/mariotext)
 
 ## Instalación en Windows
 
